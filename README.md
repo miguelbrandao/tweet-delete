@@ -10,7 +10,7 @@ tweet-delete is a small and simple **python3** script that deletes all the tweet
   
 ## How to use:
 
-1. Get your **Consumer API keys** and **Access token & access token secret** at [Twitter Apps](https://developer.twitter.com/en/apps)
+1. Get your **Consumer API keys** and **Access token & access token secret** at [Twitter Apps](https://developer.twitter.com/en/apps). Make sure 'Access permission' is set to 'Read and write'
 2. Place them in the appropriate places in *keys.json*
 3. Make sure *tweet-delete.py* and *keys.json* are in the **same** directory
 4. Run tweet-delete.py
